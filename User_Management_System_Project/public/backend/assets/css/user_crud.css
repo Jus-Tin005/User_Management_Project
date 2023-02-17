@@ -13,6 +13,10 @@ body{
         color: #edeffd  !important;
 }
 
+table th,table tr,table td{
+    background: #edeffd;
+}
+
 /*
 ---------------------------------
        Table CRUD
